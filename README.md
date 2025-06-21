@@ -2,6 +2,10 @@
 
 A clean, modern web-based chat interface for Google's Gemini AI model. This single-page application provides a responsive chat experience with a beautiful UI design.
 
+
+![image](https://github.com/user-attachments/assets/c38ab4da-b39a-4d76-b6d4-f60f7be31bc7)
+
+
 ## Features
 
 - 🤖 **Direct Gemini AI Integration** - Uses Google's Gemini 2.0 Flash model
